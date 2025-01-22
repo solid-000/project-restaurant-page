@@ -1,0 +1,22 @@
+*{
+    box-sizing: border-box;
+}
+
+nav{
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+}
+
+
+
+.hero{
+    display: flex;
+    padding: 40px;
+    justify-content: center;
+    width: 100%;
+}
+.hero>img{
+    height: 400px;
+    margin-right: 40px;
+}
