@@ -7,12 +7,13 @@ nav{
     gap: 10px;
     justify-content: center;
 }
-
+#content{
+    padding: 40px;
+}
 
 
 .hero{
     display: flex;
-    padding: 40px;
     justify-content: center;
     width: 100%;
 }
